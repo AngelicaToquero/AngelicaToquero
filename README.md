@@ -8,7 +8,7 @@ I'm Angelica Toquero, a passionate coder with a knack for database management. I
 
 - **BS Computer Science**
   New Era University
-  2021-Present
+  2022-Present
 
 ## Certifications
 
